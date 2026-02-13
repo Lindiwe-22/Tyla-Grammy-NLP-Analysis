@@ -11,13 +11,19 @@ The project utilizes a robust data science pipeline that integrates automated da
 Data Acquisition:
 * Programmatic extraction of public discourse from video platforms
 * Tools and Technologies: YouTube Data API v3, Python
+
+  
 Preprocessing:
 * Cleaning and standardizing noisy social media text
 * Tools and Technologies: Regular Expressions (Regex), Pandas
-Sentiment Analysis
+
+  
+Sentiment Analysis:
 * Comparative analysis using lexicon-based and social-media-optimized models
 * Tools and Technologies: VADER, TextBlob
-Visual Analytics
+
+  
+Visual Analytics:
 * Communicating complex sentiment distributions and thematic clusters
 * Tools and Technologies: Seaborn, Matplotlib, WordCloud
 
