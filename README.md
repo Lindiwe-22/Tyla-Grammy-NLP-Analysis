@@ -27,6 +27,8 @@ Visual Analytics:
 * Communicating complex sentiment distributions and thematic clusters
 * Tools and Technologies: Seaborn, Matplotlib, WordCloud
 
+  
+
 The core of the analysis relies on the synergy between VADER (Valence Aware Dictionary and sEntiment Reasoner), which is specifically tuned for the informal and emoji-heavy nature of social media, and TextBlob, which provides a baseline for formal linguistic polarity. This comparative approach allows for the filtering of factual "news-style" comments from high-energy fan reactions, resulting in a more nuanced understanding of the audience's emotional state.
 
 Data Acquisition Challenges and Strategic Pivots
