@@ -31,7 +31,7 @@ South African artist Tyla made history with her Grammy victories in 2024 and 202
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 | Comparative Model Output |
 |---|
