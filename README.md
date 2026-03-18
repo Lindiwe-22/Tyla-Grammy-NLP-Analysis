@@ -37,7 +37,10 @@ South African artist Tyla made history with her Grammy victories in 2024 and 202
 
 | Sentiment Distribution | Word Cloud | Comparative Model Output |
 |---|---|---|
-| ![Sentiment Chart](#) | ![Word Cloud](#) | ![Model Comparison](#) |
+| ![Model Comparison](#<img width="793" height="321" alt="Tyla_Comparison" src="https://github.com/user-attachments/assets/d2721cc1-8a43-480e-a9f7-632cd468c77d" />
+) | ![Word Cloud](#<img width="817" height="411" alt="Tyla_Word_Coud" src="https://github.com/user-attachments/assets/693bef16-fdaf-42a4-b98a-10d41a37e9de" />
+) | ![Sentiment Chart](#<img width="836" height="393" alt="Tyla_Most_Frequent" src="https://github.com/user-attachments/assets/8789dfae-129b-41a6-aa84-9ef67dc181e9" />
+) |
 
 ---
 
