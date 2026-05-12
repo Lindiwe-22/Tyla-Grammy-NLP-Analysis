@@ -142,7 +142,7 @@ The analysis pipeline is complete. Future iterations may include:
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [Lindiwe S.](https://www.linkedin.com/in/lindiwe-songelwa) |
+| 💼 LinkedIn | [Lindiwe S.](https://za.linkedin.com/in/lindiwe-songelwa) |
 | 🌐 Portfolio | [Creative Portfolio](https://lindiwe-22.github.io/Portfolio-Website/) |
 | 🏅 Credly | [Lindiwe Songelwa – Badges](https://www.credly.com/users/samnkelisiwe-lindiwe-songelwa/badges#credly) |
 
